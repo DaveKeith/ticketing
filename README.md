@@ -5,7 +5,7 @@ MERN stack ticketing app based on Steven Grider's course on Udemy
 
 https://www.udemy.com/course/microservices-with-node-js-and-react/
 
-## Description 📝
+## Description
 This is a web app that allowed me to explore microservices in production environments.
 The client interface is pretty bare bones as the project focused on the microservices aspect of the project.
 Behind the scenes, there are 6 independent services managing the different features supported by the platform:
